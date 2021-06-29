@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h1>테스트 실패 연습</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
@@ -9,6 +10,8 @@
       >.
     </p>
     <h3>Installed CLI Plugins</h3>
+
+    
     <ul>
       <li>
         <a
